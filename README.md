@@ -1,6 +1,6 @@
 # Code for INTERSPEECH 2026 Submission
 
-This repository contains the code to reproduce the experiments for our paper: *"Less is More: Cochlear Implant Strategies as Robust Feature Extractors for Low Resource Voice Activity Classification."*
+This repository contains the code to reproduce the experiments for our paper.
 
 Due to the double-blind review process, all author names, affiliations, and identifying metadata have been scrubbed from this repository.
 
@@ -104,4 +104,5 @@ Model Checkpoints Saved (in root directory):
 
 Evaluation Metrics Saved (in root directory):
 - vad_test_metrics.csv
+
 - vad_test_metrics_detailed.csv
